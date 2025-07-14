@@ -1,4 +1,3 @@
-
 const materiasData = {
   "Historia de las Artes Audiovisuales 1": {
     correlativas: ["Historia de las Artes Audiovisuales 2"]
